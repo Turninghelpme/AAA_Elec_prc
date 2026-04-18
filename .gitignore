@@ -53,3 +53,30 @@ dkms.conf
 
 # debug information files
 *.dwo
+OpenCV/backups/2026-04-18-210221-code-sync.zip
+
+# Ignore image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.webp
+*.svg
+*.heic
+
+# Ignore compressed archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+*.rar
+*.7z
+*.xz
+*.bz2
+*.iso
+*.tar.xz
+*.tar.bz2
