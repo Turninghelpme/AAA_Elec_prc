@@ -1,0 +1,9 @@
+﻿
+Path                                                                        Hash                                                            
+----                                                                        ----                                                            
+D:\OpenCV\backups\2026-04-18-code-snapshot\tools\jetson_red_laser_demo.cpp  41EDCFB9D6E4A70117B7893B9015253EB3A8B286AF470867D0A99C819C0F8A85
+D:\OpenCV\backups\2026-04-18-code-snapshot\tools\jetson_red_laser_demo.py   2A9A62385ECA33376F1AE2FFCD2F86F1AF8134081EC36CEFC5FFB885D46E567E
+D:\OpenCV\backups\2026-04-18-code-snapshot\tools\jetson_usb_mjpeg_stream.py DB8B8C906905851BC1155E4B918BF2CE53DA5245A67CBFA14CA333DC23EDE52B
+
+
+

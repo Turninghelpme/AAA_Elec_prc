@@ -1,0 +1,2 @@
+Current backup: D:\OpenCV\backups\2026-04-18-210221-code-sync
+Zip: D:\OpenCV\backups\2026-04-18-210221-code-sync.zip

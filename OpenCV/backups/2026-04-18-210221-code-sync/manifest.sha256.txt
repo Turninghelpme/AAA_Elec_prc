@@ -1,0 +1,6 @@
+# SHA256 Manifest
+
+41edcfb9d6e4a70117b7893b9015253eb3a8b286af470867d0a99c819c0f8a85  tools\jetson_red_laser_demo.cpp  <-  /home/jetson/codex-install/jetson_red_laser_demo.cpp
+2a9a62385eca33376f1ae2ffcd2f86f1af8134081ec36cefc5ffb885d46e567e  tools\jetson_red_laser_demo.py  <-  /home/jetson/codex-install/jetson_red_laser_demo.py
+db8b8c906905851bc1155e4b918bf2ce53da5245a67cbfa14ca333dc23ede52b  tools\jetson_usb_mjpeg_stream.py  <-  /home/jetson/codex-install/jetson_usb_mjpeg_stream.py
+54d7d972b4f3a2cabcd64f40b92572b39ecd7a11ae1b7166fe6e1815f2e83d29  peak-linux-driver-8.17.0 (1).tar.gz  <-  local archive
